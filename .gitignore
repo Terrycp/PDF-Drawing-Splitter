@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.spec.user
+*.log
+build/
+dist/
+*.exe
+*.dll
+*.zip
+output/
+*.pdf
+!Rename_Drawing_File_Doc/*.pdf
